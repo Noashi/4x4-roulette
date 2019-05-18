@@ -1,0 +1,23 @@
+#title {
+  font-size: 15px;
+  font-weight: bold;
+  width: 200px;
+  text-align: center;
+}
+
+.main {
+    width: 200px;
+    text-align:center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px 10px;
+}
+
+p {
+    margin: 0;
+}
